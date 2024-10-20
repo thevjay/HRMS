@@ -35,7 +35,6 @@ Welcome to the Human Resource Management System (HRMs) project! This project aim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kobiowuquadri/HRMS
 
 
 # Navigate to the project directory:
@@ -45,11 +44,11 @@ Install dependencies for the frontend and backend:
 
 
 # Install backend dependencies
-cd server
+cd bend
 npm install
 
 # Install frontend dependencies
-cd client
+cd fend
 npm install
 Set up the MongoDB database:
 
@@ -58,13 +57,13 @@ Start the development server:
 
 
 # Start the backend server
-cd server
+cd bend
 npm start
 
 # Start the frontend development server
-cd client
+cd fend
 npm start
-Open your browser and visit http://localhost:5173 to access the HRMs application.
+Open your browser and visit http://localhost:3000 to access the HRMs application.
 
 # Project Structure
 client: Frontend React application.
